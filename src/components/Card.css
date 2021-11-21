@@ -1,0 +1,20 @@
+#card
+{
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: rgba(0, 206, 206, 0.808);
+    color:#000;
+    font-family: 'Baloo Thambi 2', cursive;
+}
+
+#card:hover
+{
+    color:#fff;
+    background-color: rgba(5, 134, 134, 0.808);
+    
+}
+#image
+{
+    border-radius: 290px;
+    border-width: 20px;
+}
